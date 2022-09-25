@@ -9,4 +9,4 @@
 - [ ] Image to text conversion using pytessract
   - [ ] Check for the need of tesseract.exe
   - [ ] Integration of openCV with pytesseract
-  - [ ] 
+  
