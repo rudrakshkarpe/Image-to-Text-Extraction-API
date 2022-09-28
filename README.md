@@ -6,6 +6,8 @@
 - [x] Develop Django server structure
   - [x] created auto_scribe_backend/
   - [x] manage.py
+- [x] Working on OCR Tempaltes
+- [ ] 
 - [ ] Image to text conversion using pytessract
   - [ ] Check for the need of tesseract.exe
   - [ ] Integration of openCV with pytesseract
