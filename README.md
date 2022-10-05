@@ -16,7 +16,11 @@
   - [x] Create views
   - [x] Create urls
 
-- [ ] Image to text conversion using pytessract
-  - [ ] Check for the need of tesseract.exe
-  - [ ] Integration of openCV with pytesseract
+- [x] Image to text conversion using pytessract
+  - [x] Test pytesseract | Text extraction ultility
+- [ ] Learn more about deployment options
+  - [ ] Cloud services
+  - [ ] Add CI/CD pipeline to project
+  - [ ] Add Bot to project
+  - [ ] Add Docker to project
   
