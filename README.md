@@ -27,4 +27,4 @@
   - [ ] Add Bot to project
   - [ ] Add Docker to project
   - [ ] Can we integrate kubernetes to the project?
-    - [ ] Check more options on the same? 
+    - [ ] Check more options on the same!
