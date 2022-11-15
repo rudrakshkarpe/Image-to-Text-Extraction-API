@@ -7,8 +7,29 @@
 - Clone the repository or donwload the zip file
 ```
  git clone https://github.com/<username>/image-to-text-server.git
- 
+ ```
+- Create a [virtual environment](https://virtualenv.pypa.io/en/latest/installation.html) using python3
+  - Python3 is recommend for this project
+- Install the dependencies
+```
+pip install -r requirements.txt
+```
 
+Set up db:
+```
+python manage.py migrate
+```
+
+Set environment variables, e.g.
+``` 
+export DJANGO_DEBUG=1
+export DJANGO_ENABLE_SSL=0
+```
+
+Run server:
+```
+python manage.py runserver
+```
 
 
 
