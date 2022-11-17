@@ -1,7 +1,7 @@
 ### RESTFUL-API-FOR-IMAGE-TEXT-EXTRACTION
 
 ### Projet Info 📝
-- This project aims to provice a Django based application server providing RESTful API for image text extraction. The project is currently in development phase and is open to contributions.
+- This project aims to provide a Python-Django based application server providing RESTful API for image text extraction. The project is currently in development phase and is open for contributions.
 
 ### Steps on running the server 🚀
 - Clone the repository or donwload the zip file
