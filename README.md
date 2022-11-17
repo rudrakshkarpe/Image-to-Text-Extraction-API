@@ -9,7 +9,7 @@
  git clone https://github.com/<username>/image-to-text-server.git
  ```
 - Create a [virtual environment](https://virtualenv.pypa.io/en/latest/installation.html) using python3
-  - Python3 is recommend for this project
+  - [Python3](https://www.python.org/downloads/) is recommend for this project
 - Install the dependencies
 ```
 pip install -r requirements.txt
@@ -30,10 +30,6 @@ Run server:
 ```
 python manage.py runserver
 ```
-
-
-
-
 
 ## Checklists
 ---
